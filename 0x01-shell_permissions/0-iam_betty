@@ -1,1 +1,1 @@
-#!/bin/bash \nsu betty
+#!/bin/bash\nid -un
